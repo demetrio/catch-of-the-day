@@ -40,3 +40,5 @@ data/
 # IDES
 .idea
 .vscode
+
+build/
